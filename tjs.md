@@ -1,0 +1,14 @@
+- chai
+- burritos
+- reese's
+- mini bagels
+- strawberry bars
+- strawberry cheerios
+- frozen rice
+- pesto
+- ravioli
+- wraps
+- dried strawberries
+- hold the cones
+- chicken
+- tomatoes
