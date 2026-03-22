@@ -15,7 +15,7 @@
 - Led by a council of queens, like a school of fish that vote on decisions together and debate for what feels to other tribes like _ages_.
 - prefer not to even swim at all, riding whales and bubble buses
 - their scales are softer to help them swim better
-
+_ queens:gull,plunge,manta,ray,ripple
 ##### Lava Tail
 
 - live in volcanos
@@ -27,7 +27,7 @@
 - red, orange, and yellow
 - dragonlings are white and develop color at age 4
 - have to avoid cold temperatures or they turn slowly to stone
-
+- queen:igneous
 ##### Thunder Tail
 
 - love storms
@@ -36,7 +36,7 @@
 - lightning can shoot from their talons if angered
 - usually black, white, or gray
 - most popular name: "Bolt"
-
+- queen:flash
 ##### Moon Tail
 
 - can breathe in the upper atmosphere, or even in space
@@ -47,7 +47,7 @@
 - love playing in the rings around the planet, especially the young
 - their palace is in one of the asteroids of the rings
 - have never been to the moon, but claim they almost have
-
+- queen:meteorite
 ##### Eagle Tail
 
 - very brave, strong, bold, and maybe overconfident or even cocky
@@ -56,7 +56,7 @@
 - are very protective of their young and their friends and their birds
 - usually gold or silver, but scales feel like feathers
 - spikes on their tails are softer than usual dragons
-
+- queen:swoop
 ##### Heart Tail
 
 - tails have heart-shaped clubs at the end and retractable claws
@@ -66,7 +66,7 @@
 - are considered gracefully beautiful/handsome
 - love art and nature and dance
 - make paint from moss
-
+- queen:violet
 ##### Serpent Tail
 
 - the strongest warriors
@@ -76,3 +76,4 @@
 - tend to be the first to strike in a battle
 - have venom, which is produced from the blood of other Serpent Tails (almost always consensual)
 - known for rising up to pounce
+- queen:cobra
