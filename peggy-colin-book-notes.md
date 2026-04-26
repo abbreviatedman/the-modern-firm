@@ -1,4 +1,4 @@
-# Wings Of Definitely Not Fire Because Then We Would Be Sued In Court (not final title)
+# Scars and Scales
 
 ### Terminology
 
