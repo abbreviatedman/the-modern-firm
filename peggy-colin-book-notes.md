@@ -95,7 +95,7 @@ _ queens:gull,plunge,manta,ray,ripple
   - have wings that capture air and let them float without flapping
 - possibly they hid because a princess was killed by an outsider hundreds of years ago
 - possibly their queens have kept control of the populace through this fear of outsiders
-
+- queen:mist
 ### Major Characters
 
 ##### Gannet 
@@ -122,9 +122,13 @@ _ queens:gull,plunge,manta,ray,ripple
   - meets Galaxy, who changes her mind
 - is black with white dots
 
-##### Serpent Tail
+##### Python
 
-
+- A Serpent Tail
+- male
+- father is Venom the nephew of Queen Cobra, mother is Diamondback
+- born with venom, no rattle, why... MYSTERY
+- takes battle training from his mother
 
 ### Minor Characters
 

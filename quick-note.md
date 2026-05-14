@@ -1,5 +1,27 @@
-### Calendar
+T1
 
-##### Sunday 2026-01-11
+c: 0
 
-- play date at our place with Alice F. at an undetermined time
+1o:
+
+2o:
+
+33:
+
+43:
+
+H:
+c
+c
+c
+u
+s
+
+D:
+c
+c
+c
+u
+s
+
+Di:
